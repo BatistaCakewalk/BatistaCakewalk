@@ -20,6 +20,7 @@
 - **Roblox Studio** | Since 2017 for Roblox Development
 - **Krita** | Since 2024 for Arts and graphic design
 
+## My analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BatistaCakewalk&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BatistaCakewalk&theme=github_dark" />

@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<img width="1830" height="698" alt="bannerfinal" src="https://github.com/BatistaCakewalk/BatistaCakewalk/blob/main/GithubThing.png?raw=true"/>
+
+## G'day mates 👋
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BatistaCakewalk&theme=github_dark" />

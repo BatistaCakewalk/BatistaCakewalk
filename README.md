@@ -15,7 +15,8 @@
 - **🌱 C++** — Since 2025  
 - **Lua** (Mostly LuaU) — Since 2025  
 - **🌱 HTML/CSS** — Used to do a bit back in middle school, now returned back in 2025.  
-- **🌱 Java** — Just for fun. (Since 2025)
+
+
 
 ---
 

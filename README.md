@@ -13,6 +13,7 @@
 <p><small>Any with a "🌱" means I'm still learning</small></p>
 
 - **🌱 C++** — Since 2025  
+- **🌱 Go** — Since January 2026
 - **Lua** (Mostly LuaU) — Since 2025  
 - **🌱 HTML/CSS** — Used to do a bit back in middle school, now returned back in 2025.  
 

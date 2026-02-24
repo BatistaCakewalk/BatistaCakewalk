@@ -22,9 +22,8 @@
 ### ⚙️ What I use
 
 - **Jetbrains** — For everything programming related  
-- **Visual Studio Code** — Anything MISC / to build my website  
 - **Roblox Studio** — Since 2017 for Roblox Development  
-- **Krita** — Since 2024 for Arts and graphic design
+- **Krita and IbisPaintX** — Since 2024 for Arts and graphic design
 
 ---
 

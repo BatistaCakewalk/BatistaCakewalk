@@ -14,7 +14,7 @@
 
 - **🌱 C++** — Since 2025  
 - **🌱 Go** — Since January 2026
-- **🌱 Jaca** — Since Febuary 2026
+- **🌱 Java** — Since Febuary 2026
 
 
 
